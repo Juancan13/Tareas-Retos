@@ -1,7 +1,8 @@
 #Title
-print("***Algoritmo para clientes de EL ACNÉ***")
+print("Algoritmo para clientes de ACNÉ")
 #Variables
-antiguedad = int(input("Por favor introduzca la cantidad de años que lleva siendo cliente: "))
+name = input("Para empezar, por favor ingrese su nombre: ")
+antiguedad = int(input("Por favor introduzca la cantidad de años: "))
 valor_compra = int(input("Digite el valor de su compra: "))
 descuento = valor_compra * 0.25
 descuento_mayorista = valor_compra * 0.20

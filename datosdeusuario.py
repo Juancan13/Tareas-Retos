@@ -1,0 +1,7 @@
+print("DATOS DE  USUARIO")
+name = input("Para empezar, por favor ingrese su nombre: ")
+dni = int(input("Por favor ingrese su DNI: "))
+age = int(input("Por favor ingrese su edad: "))
+print("Nombre: " + name)
+print("DNI: ", + dni)
+print ("Edad: ", + age)
